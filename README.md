@@ -5,5 +5,6 @@
 3. [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
 4. [Reverse Integer](https://leetcode.com/problems/reverse-integer)
 5. [Max Product of 3 Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)
+6. [Counting Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs)
 
 [Link to my profile](https://leetcode.com/u/kevinwang0125/)
