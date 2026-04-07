@@ -7,5 +7,6 @@
 5. [Max Product of 3 Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)
 6. [Counting Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs)
 7. [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii)
+8. [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii)
 
 [Link to my profile](https://leetcode.com/u/kevinwang0125/)
