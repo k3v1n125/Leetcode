@@ -8,5 +8,6 @@
 6. [Counting Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs)
 7. [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii)
 8. [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii)
+9. [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation)
 
 [Link to my profile](https://leetcode.com/u/kevinwang0125/)
